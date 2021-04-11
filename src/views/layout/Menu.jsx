@@ -16,7 +16,7 @@ export default props => {
                     <Link to='/useeffect' className='nav-link text-light'>UseEffect</Link>
                 </li>
                 <li className='nav-item'>
-                    <Link to='/useref' className='nav-link text-light'>UseEffect</Link>
+                    <Link to='/useref' className='nav-link text-light'>UseRef</Link>
                 </li>
                 <li className='nav-item'>
                     <Link to='/usereduce' className='nav-link text-light'>UseReduce</Link>
