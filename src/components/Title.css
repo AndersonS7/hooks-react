@@ -1,0 +1,10 @@
+.Title h2{
+    font-size: 1.6em;
+    font-weight: 300;
+    color: #555a59;
+}
+.Title{
+    border-bottom: solid 1px #d7dddb;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}

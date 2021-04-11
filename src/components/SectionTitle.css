@@ -1,0 +1,16 @@
+.SectionTitle{
+    margin: 10px 0px 20px 0px;
+    padding: 15px;
+    border-left: solid 10px #086348;
+    background-color: #abd3d3;
+}
+.SectionTitle h2{
+    font-size: 2.4em;
+    font-weight: 400;
+    color: #373b3b;
+}
+.SectionTitle h4{
+    font-size: 1.4em;
+    font-weight: 300;
+    color: #535858
+}
